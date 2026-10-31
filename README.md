@@ -2,8 +2,6 @@
 
 It blinks when you speak!
 
-_Originally published on 6 October 2021._
-
 ![Tali's helmet](images/cover.jpg)
 
 This is the code and the electronics diagram for my Tali's helmet from Mass Effect. The helmet is 3D printed and the visor is vacuum formed. I've been dreaming about making Tali's helmet for years. Finally I decided I'm proficient enough to pull it off!
@@ -69,6 +67,8 @@ The files were designed and split for 3D printing (for a 180×180 mm build plate
 - [Thingiverse](https://www.thingiverse.com/thing:4983479)
 
 ## License
+
+Originally published on 6 October 2021.
 
 Tali's helmet by bzqp is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license (CC BY-NC 4.0). See [LICENSE](LICENSE).
 
